@@ -10,6 +10,9 @@ Collection of my projects and experiments in **Reinforcement Learning** — from
 
 ### 📁 Projects
 
+- **[Deep Q-Network (DQN) Implementation](Deep-Q-Network-DQN/)**  
+  Full implementation of Deep Q-Network with Experience Replay and Target Network. Tested on CartPole (debug) and Atari environments.
+
 - **[Value Iteration & Policy Iteration](Classic-Algorithms.GridWorld-FrozenLake/)**  
   Implementation and comparison of two fundamental RL algorithms — Value Iteration and Policy Iteration — on Grid World and Frozen Lake environments (deterministic and stochastic).
 
