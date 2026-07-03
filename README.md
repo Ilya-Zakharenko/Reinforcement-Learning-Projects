@@ -19,6 +19,9 @@ Collection of my projects and experiments in **Reinforcement Learning** — from
 - **[Imitation Learning: Behavioral Cloning & DAgger](Imitation-Learning.BC-DAgger/)**
   Implementation of Behavioral Cloning and DAgger algorithms. Demonstrated significant improvement of DAgger over BC by solving the covariate shift problem through iterative dataset aggregation.
 
+- **[LunarLander with PPO, A2C and Reward Shaping](LunarLander-PPO-A2C-Reward-Shaping/)**
+  Comparative study of PPO and A2C algorithms on LunarLander-v2 environment. Investigated the impact of custom reward shaping (fuel penalty) on training stability, fuel efficiency and final performance.
+
 ---
 
 ### 🛠 Technologies & Approaches
