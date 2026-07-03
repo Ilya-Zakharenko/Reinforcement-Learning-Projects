@@ -16,6 +16,9 @@ Collection of my projects and experiments in **Reinforcement Learning** — from
 - **[Value Iteration & Policy Iteration](Classic-Algorithms.GridWorld-FrozenLake/)**  
   Implementation and comparison of two fundamental RL algorithms — Value Iteration and Policy Iteration — on Grid World and Frozen Lake environments (deterministic and stochastic).
 
+- **[Imitation Learning: Behavioral Cloning & DAgger](Imitation-Learning.BC-DAgger/)**
+  Implementation of Behavioral Cloning and DAgger algorithms. Demonstrated significant improvement of DAgger over BC by solving the covariate shift problem through iterative dataset aggregation.
+
 ---
 
 ### 🛠 Technologies & Approaches
